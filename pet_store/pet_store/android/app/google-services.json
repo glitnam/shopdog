@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "327034066856",
+    "project_id": "petdog-store",
+    "storage_bucket": "petdog-store.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:327034066856:android:243d23083735b63a6daf9d",
+        "android_client_info": {
+          "package_name": "com.example.pet_store"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmK0AWlmo_NLQ8DZp-4GPZeatJD7D4jk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
